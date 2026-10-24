@@ -1,3 +1,5 @@
+Your Program is correct 
+I have executed and validated over the java compiler
 import java.util.*;
 class Occurance{
 public static void main(String [] args){
